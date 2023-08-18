@@ -1,27 +1,28 @@
-# TryAngular
+# Learning Angular 🥸
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+[Documentation Link](https://angular.io/docs)
 
-## Development server
+## Types of Frameworks
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. Configuration over convention - `React, Vue etc.`
+2. Convention over configuration - `Angular`
 
-## Code scaffolding
+#### Pre-requisites - [Install NodeJS](https://nodejs.org/en)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Let's Create a new Angular Project using [Angular CLI](https://angular.io/guide/setup-local#install-the-angular-cli)
 
-## Build
+```
+ng new try-angular
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+#### Start our App
 
-## Running unit tests
+```
+ng serve --open
+or
+npm start
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#### VS Code Extension: [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### [Angular Update Guide](https://update.angular.io/)
