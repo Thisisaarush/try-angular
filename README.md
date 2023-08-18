@@ -15,6 +15,7 @@
 ## Let's Create a new Angular Project using [Angular CLI](https://angular.io/guide/setup-local#install-the-angular-cli)
 
 ```
+npm install -g @angular/cli
 ng new try-angular
 ```
 
