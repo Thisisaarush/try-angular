@@ -23,6 +23,10 @@ or
 npm start
 ```
 
-#### VS Code Extension: [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+## Extensions / Helpers
+
+- VS Code Extension: [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+
+- Chrome Extension: [Angular Devtools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh)
 
 ### [Angular Update Guide](https://update.angular.io/)
