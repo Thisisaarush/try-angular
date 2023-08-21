@@ -6,7 +6,7 @@ import { AppModule } from './app/app.module';
 import { environment } from './environments/environment.development';
 import { enableProdMode } from '@angular/core';
 
-// Enabling Production Mode to optimize/boost performance our app in prod
+// Enabling Production Mode to optimize/boost performance of our app in prod (Change Detection)
 if (environment.production) {
   enableProdMode();
 }
