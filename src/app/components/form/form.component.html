@@ -1,0 +1,5 @@
+<form (submit)="onSubmit($event)">
+  <label for="name">Name</label>
+  <input type="text" id="name" [formControl]="nameControl" />
+</form>
+<p>Your Name is: {{ userName }}</p>

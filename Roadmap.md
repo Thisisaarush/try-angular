@@ -8,7 +8,7 @@
 4. Creating Our First Project
 5. Folder Structure / Config Files
 6. Types of Compilation - JIT & AOT
-7. Enabling Production Mode
+7. Enabling Production Mode (Change Detection)
 8. Modules in Angular
 9. Components in Angular
 10. Templates & Styles in Angular
@@ -16,5 +16,8 @@
 12. Expression & Interpolation
 13. Understanding Bindings - [ Property ] & ( Events )
 14. Dependency Injection / Services
-15. Routing
-16. 
+15. Routing Basics
+16. @Input & @Output
+17. Directives
+18. Forms
+19. 

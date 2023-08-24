@@ -1,7 +1,11 @@
 <nav>
   <ul>
-    <li routerLink="/">Home</li>
-    <li routerLink="/about">About</li>
+    <li>
+      <a routerLink="/"> Home </a>
+    </li>
+    <li>
+      <a routerLink="/about"> About </a>
+    </li>
   </ul>
 </nav>
 
@@ -15,5 +19,8 @@
 <img [src]="imgUrl" />
 <h1>Hello Angular {{ version }}</h1>
 <input type="text" (keyup)="changeValue($event)" />
+
+<h2>Forms in Angular</h2>
+<test-form></test-form>
 
 <router-outlet></router-outlet>
