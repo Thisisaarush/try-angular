@@ -2,6 +2,7 @@
 
 [Documentation Link](https://angular.io/docs)
 
+<!-- Todo: Add Links -->
 1. Introduction
 2. Types of Frameworks
 3. The Angular CLI Tool
@@ -16,8 +17,9 @@
 12. Expression & Interpolation
 13. Understanding Bindings - [ Property ] & ( Events )
 14. Dependency Injection / Services
-15. Routing Basics
+15. Routing
 16. @Input & @Output
 17. Directives
 18. Forms
-19. 
+19. Lazy Loading Modules
+20. 

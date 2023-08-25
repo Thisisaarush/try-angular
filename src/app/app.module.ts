@@ -3,9 +3,9 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TestService } from './services/test.service';
-import { AboutComponent } from './components/about/about.component';
-import { NameComponent } from './components/name/name.component';
-import { FormComponent } from './components/form/form.component';
+import { AboutComponent } from './about/about.component';
+import { NameComponent } from './name/name.component';
+import { FormComponent } from './form/form.component';
 import { ReactiveFormsModule } from '@angular/forms';
 
 // Decorator @NgModule is used to add metadata to a module class
